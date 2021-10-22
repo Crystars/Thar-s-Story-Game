@@ -5,6 +5,7 @@
 [Bb]uilds/
 [Ll]ogs/
 
+
 # Uncomment this line if you wish to ignore the asset store tools plugin
 # [Aa]ssets/AssetStoreTools*
 
@@ -46,3 +47,41 @@ sysinfo.txt
 
 # Crashlytics generated file
 crashlytics-build.properties
+
+Assets/Tiles/
+
+UserSettings/
+
+Assets/Stomper Artwork/
+
+Assets/Pixel Fantasy Caves/
+
+Assets/PlatformerSet1/
+
+Assets/BayatGames/
+
+Assets/Ground/
+
+Assets/Bitmap/
+
+Assets/Sprites/
+
+Assets/Ninja Files/
+
+Assets/Monsters Creatures Fantasy/
+
+Assets/Prefabs/
+
+Assets/PF SET1/
+
+Assets/Physics/
+
+Assets/Palettes/
+
+Assets/Animation/
+
+Assets/Animation.meta
+
+Assets/*.meta
+
+Assets/Scenes/
